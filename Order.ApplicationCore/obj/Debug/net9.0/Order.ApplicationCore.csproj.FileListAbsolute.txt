@@ -1,0 +1,11 @@
+/Users/zeyushen/Downloads/order project/OrderManagmentSystem/Order.ApplicationCore/bin/Debug/net9.0/Order.ApplicationCore.deps.json
+/Users/zeyushen/Downloads/order project/OrderManagmentSystem/Order.ApplicationCore/bin/Debug/net9.0/Order.ApplicationCore.dll
+/Users/zeyushen/Downloads/order project/OrderManagmentSystem/Order.ApplicationCore/bin/Debug/net9.0/Order.ApplicationCore.pdb
+/Users/zeyushen/Downloads/order project/OrderManagmentSystem/Order.ApplicationCore/obj/Debug/net9.0/Order.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeyushen/Downloads/order project/OrderManagmentSystem/Order.ApplicationCore/obj/Debug/net9.0/Order.ApplicationCore.AssemblyInfoInputs.cache
+/Users/zeyushen/Downloads/order project/OrderManagmentSystem/Order.ApplicationCore/obj/Debug/net9.0/Order.ApplicationCore.AssemblyInfo.cs
+/Users/zeyushen/Downloads/order project/OrderManagmentSystem/Order.ApplicationCore/obj/Debug/net9.0/Order.ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/zeyushen/Downloads/order project/OrderManagmentSystem/Order.ApplicationCore/obj/Debug/net9.0/Order.ApplicationCore.dll
+/Users/zeyushen/Downloads/order project/OrderManagmentSystem/Order.ApplicationCore/obj/Debug/net9.0/refint/Order.ApplicationCore.dll
+/Users/zeyushen/Downloads/order project/OrderManagmentSystem/Order.ApplicationCore/obj/Debug/net9.0/Order.ApplicationCore.pdb
+/Users/zeyushen/Downloads/order project/OrderManagmentSystem/Order.ApplicationCore/obj/Debug/net9.0/ref/Order.ApplicationCore.dll
